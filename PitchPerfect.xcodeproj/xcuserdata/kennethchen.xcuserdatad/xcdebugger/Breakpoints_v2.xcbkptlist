@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PitchPerfect/RecordSoundsViewController.swift"
-            timestampString = "524249667.213667"
+            timestampString = "525072690.372707"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "60"
-            endingLineNumber = "60"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
             landmarkName = "stopRecording(_:)"
             landmarkType = "7">
          </BreakpointContent>
